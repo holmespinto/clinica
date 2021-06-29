@@ -1,0 +1,1 @@
+[28-Jun-2021 11:48:26 America/Bogota] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/autoeval/public_html/openemr/src/Common/Session/SessionUtil.php on line 215
