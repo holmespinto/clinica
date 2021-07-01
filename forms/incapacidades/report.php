@@ -253,10 +253,7 @@ function doclick(pfx, id) {
         <br />
         <br />
             <?php
-            /**
-             *  This is to store the requisition bar code number to use again if the form needs to be printed or viewed again
-             *  But save it the first time through.
-             */
+    
                $lab_id = $order[0];
                $storeBar = getBarId($lab_id, $pid);
 
