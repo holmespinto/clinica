@@ -65,11 +65,8 @@ require_once("./encabezado.php");
                   <i class="fas fa-chart-pie"></i>Total venta por Meses 
                </a><a class="btn btn-app" href="reporte2.php">
                   <i class="fas fa-chart-line"></i>Total venta por Dia 
-               </a><a class="btn btn-app" href="view.php">
-                 <i class="fas fa-chart-area"></i>Productos Entregados 
-               </a><a class="btn btn-app" href="view.php">
-                 <i class="fas fa-chart-bar"></i>Venta por Unidad 
                </a>
+			   
 			   
           </div>
         </div>
