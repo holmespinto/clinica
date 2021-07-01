@@ -1,1 +1,3 @@
 clinica
+inventario
+inapacidades
